@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.exe
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.deps.json
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.runtimeconfig.json
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.dll
+C:\Users\Adam\source\repos\marathon_network\marathon_network\bin\Debug\netcoreapp3.1\marathon_network.pdb
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.main_form.resources
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.AssemblyInfo.cs
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.dll
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.pdb
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.genruntimeconfig.cache
+C:\Users\Adam\source\repos\marathon_network\marathon_network\obj\Debug\netcoreapp3.1\marathon_network.about.resources
