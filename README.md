@@ -10,7 +10,7 @@ You need MS Visual Studio to run the project<br>
 2. Click 'Search'
    After click 'Search' application start the scan.
    <img src="https://user-images.githubusercontent.com/48458422/115987096-e84cac00-a5b3-11eb-9785-9bc804fe2df4.png"/>
-   The app will show you IP addresses and stats in the list below.
+   The app will show you IP addresses and statuses in the list below.
 
 
 <h4>Clear button</h4>
